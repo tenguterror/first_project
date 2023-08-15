@@ -19,7 +19,7 @@ const Concepts = (props) => {
       </ul>
       <ul id='concepts'>
         <li className='concept'>
-          <img src={props.items[2].image} alt='Micropone of events' />
+          <img src={props.items[2].image} alt='Microphone of events' />
           <h2>{props.items[2].title}</h2>
           <p>{props.items[2].description}</p>
         </li>
