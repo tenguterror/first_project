@@ -1,5 +1,5 @@
 import React from 'react';
-import Concepts from './Components/Concepts';
+import Concepts from './Components/Concepts/Concepts';
 import Header from './Components/Header/Header';
 import componentsImage from './assets/images/components.png';
 import stateImage from './assets/images/state.png';
